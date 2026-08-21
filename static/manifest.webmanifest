@@ -1,0 +1,10 @@
+{
+  "name": "Reporte de seguridad",
+  "short_name": "SSOMA",
+  "description": "Editor web del reporte de seguridad: fecha, turno, diapositivas y fotos IDS.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101410",
+  "theme_color": "#e6c44a",
+  "lang": "es"
+}
